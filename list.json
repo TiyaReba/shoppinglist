@@ -1,0 +1,84 @@
+{
+    "shoppinglist": [
+            { 
+            "SlNo" : "1",
+            "Name": "Bubble Washing liquid",
+            "Quantity": "2",
+            "Unit":"Nos",
+            "Department":"Soaps",
+            "Notes":"Only bubble wahing liquid is needed"
+            },
+            {
+            "SlNo" : "2",
+            "Name": "Jasmin Washing Soap",
+            "Quantity": "500",
+            "Unit":"ml",
+            "Department":"Soaps",
+            "Notes":"Only Jasmin Washing Soap is needed"
+            },
+            {
+            "SlNo" : "3",
+            "Name": "Matta Rice ",
+            "Quantity": "10",
+            "Unit":"kg",
+            "Department":"Rice",
+            "Notes":"Only Matta Rice is needed"
+            },
+            {
+            "SlNo" : "4",
+            "Name": "Onion ",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only small onions are needed"
+            },
+            {
+            "SlNo" : "5",
+            "Name": "Tomato",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only red tomatos  are needed"
+            },
+            {
+            "SlNo" : "6",
+            "Name": "Potato",
+            "Quantity": "1",
+            "Unit":"kg",
+            "Department":"Vegetables",
+            "Notes":"Only baby potatos  are needed"
+            },
+            {
+            "SlNo" : "7",
+            "Name": "Amul Cheese",
+            "Quantity": "500",
+            "Unit":"gms",
+            "Department":"Dairy",
+            "Notes":"Only Amul Cheese slices  are needed"
+            },
+            {
+            "SlNo" : "8",
+            "Name": "Curd",
+            "Quantity": "500",
+            "Unit":"l",
+            "Department":"Dairy",
+            "Notes":"Only Milma Curd is needed"
+            },
+            { 
+            "SlNo" : "9",
+            "Name": "Lentils",
+            "Quantity": "500",
+            "Unit":"gms",
+            "Department":"Grains",
+            "Notes":"Only good quality is needed"
+            },
+            { 
+            "SlNo" : "10",
+            "Name": "Sunflower Oil",
+            "Quantity": "500",
+            "Unit":"l",
+            "Department":"Oils",
+            "Notes":"Only good quality is needed"
+            }    
+    ]
+}
